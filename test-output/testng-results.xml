@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72706" started-at="2020-02-22T09:33:20Z" finished-at="2020-02-22T09:34:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72706" started-at="2020-02-22T09:33:20Z" finished-at="2020-02-22T09:34:32Z">
+      <class name="com.trip.testcases.ReviewTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.trip.testcases.ReviewTest@68be2bc2]" name="setUp" is-config="true" duration-ms="26918" started-at="2020-02-22T15:03:20Z" finished-at="2020-02-22T15:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyReview()[pri:0, instance:com.trip.testcases.ReviewTest@68be2bc2]" name="verifyReview" duration-ms="45756" started-at="2020-02-22T15:03:47Z" finished-at="2020-02-22T15:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyReview -->
+      </class> <!-- com.trip.testcases.ReviewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
